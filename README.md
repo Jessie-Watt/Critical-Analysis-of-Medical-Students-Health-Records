@@ -35,7 +35,7 @@ then the height and weight, were dragged to the 'values' section of the pivotTab
 
 The third activity on this task I inserted a new Pivot table, then I dragged the 'students ID' to the 'value' section, and the 'blood type' to the 'row' section this produced a pivot table showing the summation of students, I changed the 'sum' to 'count' hence this produced the total number of students and their different blood type. 
 The fourth activity on this task I inserted a new Pivot table, then I dragged the 'students ID' to the 'value' section and the 'smoking' to the 'row' section this produced a pivot table showing the summation of students, I changed the 'sum' to 'count' hence this produced the total number of students smoking, and those who do not smoke. 
-To determine the total number of diabetic students I inserted a new Pivot table, then I dragged the 'Diabetes' to the 'row' section and the 'Student ID' to the 'value' section this produced a pivot table showing the summation of students, I changed the 'sum' to 'count' hence this produced the total number of diabetic students, and non-diabetic students. I also removed the grandtotal from this section.
+To determine the total number of diabetic students I inserted a new Pivot table, the pivot table fields box popped-up containing the all the headers on my table then I dragged the 'Diabetes' to the 'row' section and the 'Student ID' to the 'value' section this produced a pivot table showing the summation of students, I changed the 'sum' to 'count' hence this produced the total number of diabetic students, and non-diabetic students. I also removed the grandtotal from this section.
 
 # **Data Visualization of the pivot tables using pivot charts**
 
@@ -45,6 +45,8 @@ Data visualisation of the pivot tables requires the detailed presentation of the
 
 
 Pivot Table 1: The average values of males and females age, BMI, temperature, heart rate, blood pressure and cholesterol.
+
+
 A cell in Pivot table 1 was clicked, then I selected 'pivotchart' on the 'insert ribbon' this displayed the 'all chart' field where I selected the 'column chart' then moved the chart to new worksheet. I removed the field buttons, chart text, and inserted a text box describing the the chart as the 'Average Medical data of students', a slicer was inserted to visualize the chart when considering just females or males. The legends were left because the column bars were too many to identify each medical data. I also performed the same steps on Pivot table 2, 3, 4 and 5. For pivot table 4 and 5, I used a doughnut chart and a pie chart because the point considered were few compared to the pivot table 1. I also used a bar chart for pivot table 3. After creating the 5 pivotcharts I designed the bars from dark blue to light blue colours identifying the highest to the lowest values. I also inserted a rectangular shape behind the charts, then grouped the charts, the slicer and the header together. The screenshot of the data visuals of the pivot tables can be seen above.
 
 
